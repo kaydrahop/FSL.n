@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Disallow: /employee-login
+
+Sitemap: https://fslassociates.com/sitemap.xml
